@@ -1,0 +1,52 @@
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe.config
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.pdb
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csprojAssemblyReference.cache
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Properties.Resources.resources
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.GenerateResource.cache
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.exe
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.pdb
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form1.resources
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form2.resources
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.urunEkle.resources
+C:\Users\Njacsen\source\repos\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.musteriEkle.resources
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe.config
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.pdb
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csprojAssemblyReference.cache
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form1.resources
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form2.resources
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.musteriEkle.resources
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Properties.Resources.resources
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.urunEkle.resources
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.GenerateResource.cache
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.exe
+C:\Users\sssin\OneDrive\Masaüstü\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.pdb
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe.config
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.pdb
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csprojAssemblyReference.cache
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form1.resources
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form2.resources
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.musteriEkle.resources
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Properties.Resources.resources
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.urunEkle.resources
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.GenerateResource.cache
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.exe
+C:\Users\Njacsen\Desktop\C# Proje\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.pdb
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe.config
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.exe
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\bin\Debug\depostokotomasyonu.pdb
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csprojAssemblyReference.cache
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form1.resources
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Form2.resources
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.musteriEkle.resources
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.Properties.Resources.resources
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.urunEkle.resources
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.GenerateResource.cache
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.exe
+C:\Users\Njacsen\Desktop\depostokotomasyonu\depostokotomasyonu\obj\Debug\depostokotomasyonu.pdb
