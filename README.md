@@ -1,6 +1,7 @@
 # DepoStokOtomasyonu
 
 Kullanıcı Rolleri :
+
 	Depo Müdürü:
 		Yeni Kullanıcı ekleme, kullanıcı silme, kullanıcıları görüntüleme
 		Yeni ürün ekleme, ürünleri görüntüleme/güncelleme/silme
